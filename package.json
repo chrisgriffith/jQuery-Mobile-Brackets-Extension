@@ -1,0 +1,12 @@
+{
+	"name": "AJ Software & Multimedia",
+	"title": "jQuery Mobile Support",
+	"description": "jQuery Mobile Support.",
+	"homepage": "http://aj-software.com",
+	"version": "0.0.1",
+	"author": "Chris Griffith, chrisgriffith@gmail.com",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=0.25.0"
+	}
+}
