@@ -120,6 +120,7 @@
     "controls":           { "attribOption": [], "type": "flag" },
     "coords":             { "attribOption": [] },
     "data":               { "attribOption": [] },
+	"data-add-back-btn":  { "attribOption": [], "type": "boolean"  },
     "data-ajax":          { "attribOption": [], "type": "boolean"  },
     "data-autodividers":  { "attribOption": [], "type": "boolean" },
     "data-clear-btn":     { "attribOption": [], "type": "boolean" },

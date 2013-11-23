@@ -3,7 +3,7 @@
 	"title": "jQuery Mobile Support",
 	"description": "jQuery Mobile Support.",
 	"homepage": "http://aj-software.com",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Chris Griffith, chrisgriffith@gmail.com",
 	"license": "MIT",
 	"engines": {

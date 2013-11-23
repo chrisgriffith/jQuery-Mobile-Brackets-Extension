@@ -29,7 +29,7 @@
     "del":        { "attributes": ["cite", "datetime"] },
     "details":    { "attributes": ["open"] },
     "dfn":        { "attributes": [] },
-    "div":        { "attributes": ["data-collapsed", "data-collapsed-icon", "data-content-theme", "data-display", "data-expanded-icon", "data-highlight",  "data-iconpos", "data-id", "data-inset", "data-mini", "data-position", "data-role", "data-theme", "data-track-theme", "data-type"] },
+    "div":        { "attributes": ["data-add-back-btn", "data-collapsed", "data-collapsed-icon", "data-content-theme", "data-display", "data-expanded-icon", "data-highlight",  "data-iconpos", "data-id", "data-inset", "data-mini", "data-position", "data-role", "data-theme", "data-track-theme", "data-type"] },
     "dl":         { "attributes": [] },
     "dt":         { "attributes": [] },
     "em":         { "attributes": [] },
