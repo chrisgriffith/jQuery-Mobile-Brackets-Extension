@@ -1,10 +1,10 @@
 {
-	"name": "AJ Software & Multimedia",
-	"title": "jQuery Mobile Support",
-	"description": "jQuery Mobile Support.",
+	"name": "chrisgriffith.jqmbrackets",
+	"title": "jQuery Mobile",
+	"description": "Code hinting for jQuery Mobile.",
 	"homepage": "http://aj-software.com",
 	"version": "0.0.2",
-	"author": "Chris Griffith, chrisgriffith@gmail.com",
+	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
 	"license": "MIT",
 	"engines": {
 		"brackets": ">=0.25.0"
