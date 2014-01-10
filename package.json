@@ -3,7 +3,7 @@
 	"title": "jQuery Mobile",
 	"description": "Code hinting for jQuery Mobile.",
 	"homepage": "http://jqmbrackets.org/",
-	"version": "0.0.3",
+	"version": "0.1.0",
 	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
 	"license": "ClearBSD",
 	"engines": {
