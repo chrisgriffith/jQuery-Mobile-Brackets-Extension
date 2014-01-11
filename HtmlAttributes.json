@@ -166,7 +166,7 @@
     "data-position-to":      { "attribOption": ["fixed"] },
     "data-prefetch":      { "attribOption": [], "type": "boolean" },
     "data-rel":           { "attribOption": ["back", "dialog", "external", "popup"] },
-    "data-role":          { "attribOption": ["button", "collapsible", "collapsible-set", "content", "controlgroup", "fieldcontain", "footer", "header", "list-divider", "listview", "none", "page", "panel", "popup", "rangeslider", "table"] },
+    "data-role":          { "attribOption": ["button", "collapsible", "collapsibleset", "content", "controlgroup", "dialog", "fieldcontain", "footer", "header", "list-divider", "listview", "navbar", "none", "page", "panel", "popup", "rangeslider", "slider", "table"] },
     "data-shadow":        { "attribOption": [], "type": "boolean" },
     "data-split-icon":    { "attribOption": ["home", "delete", "plus", "arrow-u", "arrow-d", "check", "gear", "grid", "star", "custom", "arrow-r", "arrow-l", "minus", "refresh", "forward", "back", "alert", "info", "search"] },
     "data-split-theme":   { "attribOption": ["a", "b", "c", "d", "e"] },
