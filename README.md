@@ -1,9 +1,10 @@
-jQuery-Mobile-Brackets-Extension
-================================
+# jQuery-Mobile-Brackets-Extension
+A Brackets [http://brackets.io](http://brackets.io) code hinting extension for the jQuery Mobile [http://jquerymobile.com/] (http://jquerymobile.com/)
 
-Extension for Brackets (http://brackets.io) that adds support for jQuery Mobile code hinting. 
-
-##Install
+## Notice
+There's a known issue with Brackets that keeps multiple code hinters from being run at the same time. Therefore, for this extension to work, make sure you have no other code hinters installed. 
+ 
+## Install
 
 1. Install Brackets 1.0 or later.
 2. In Brackets, click the menu item File > Extension Manager...
